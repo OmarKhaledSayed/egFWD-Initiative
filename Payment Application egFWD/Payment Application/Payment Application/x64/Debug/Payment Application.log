@@ -1,0 +1,8 @@
+﻿  app.c
+D:\egFWD\Payment Application egFWD\Payment Application\Payment Application\Application\app.c(21,11): warning C4098: 'appStart': 'void' function returning a value
+D:\egFWD\Payment Application egFWD\Payment Application\Payment Application\Application\app.c(29,11): warning C4098: 'appStart': 'void' function returning a value
+D:\egFWD\Payment Application egFWD\Payment Application\Payment Application\Application\app.c(38,11): warning C4098: 'appStart': 'void' function returning a value
+D:\egFWD\Payment Application egFWD\Payment Application\Payment Application\Application\app.c(45,2): warning C4013: 'DataBase_init' undefined; assuming extern returning int
+D:\egFWD\Payment Application egFWD\Payment Application\Payment Application\Application\app.c(50,41): warning C4047: 'function': 'ST_transaction_t *' differs in levels of indirection from 'ST_transaction_t (*)[5]'
+D:\egFWD\Payment Application egFWD\Payment Application\Payment Application\Application\app.c(50,25): warning C4024: 'recieveTransactionData': different types for formal and actual parameter 1
+  Payment Application.vcxproj -> D:\egFWD\Payment Application egFWD\Payment Application\x64\Debug\Payment Application.exe
